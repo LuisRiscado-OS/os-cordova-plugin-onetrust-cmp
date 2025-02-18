@@ -1,24 +1,3 @@
-# 202501.2.0
-* Adds support for OneTrust 202501.2.0
-
-# 202501.1.0
-* Adds support for OneTrust 202501.1.0
-
-# 202411.2.0
-* Adds support for OneTrust 202411.2.0
-
-# 202411.1.0
-* Adds support for OneTrust 202411.1.0
-
-# 202410.1.0
-* Adds support for OneTrust 202410.1.0
-
-# 202409.2.0
-* Adds support for OneTrust 202409.2.0
-
-# 202409.1.0
-* Adds support for OneTrust 202409.1.0
-
 # 202408.1.0
 * Adds support for OneTrust 202408.1.0
 

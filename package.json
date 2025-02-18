@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-onetrust-cmp",
-  "version": "202501.2.0",
+  "version": "202408.1.0",
   "description": "OneTrust is the leading Consent Management solution provider. This plugin exposes OneTrust's native CMP functionality to Cordova and Ionic environments.",
   "main": "index.js",
   "scripts": {  
